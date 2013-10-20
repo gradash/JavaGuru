@@ -31,7 +31,7 @@ public class larger {
 		else if ((c < b) && (b == a))
 			System.out.println("Numbers A & B larger than C");
 		else if ((a == b) || (b == c))
-			System.out.println("All numbers equal");
+			System.out.println("All numbers equal!");
 
 	}
 }
