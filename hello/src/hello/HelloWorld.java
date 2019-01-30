@@ -11,7 +11,7 @@ public class HelloWorld {
 		int b = 0; // kolichestvo nechetnih
 		int n;
 
-		System.out.println("Введите числа, чтобы закончить - введите 0: ");
+		System.out.println("hello world one more time");
 		scan = new Scanner(System.in);
 
 		while (true)
@@ -27,7 +27,7 @@ public class HelloWorld {
 				b++;
 		}
 
-		System.out.println("Четных " + c);
-		System.out.println("Нечетных " + b);
+		System.out.println("hz 4to " + c);
+		System.out.println("hz 4to 2 " + b);
 	}
 }
